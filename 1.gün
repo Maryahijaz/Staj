@@ -1,0 +1,27 @@
+LAN,VLAN,PORT,IP,DMZ KAVRAMLARI
+
+LAN :(Local Area Network) Aynı bölge içersinde bulunan cihazları birbirine bağlanmasıdır.
+VLAN :(Virtual Local Area Network) LAN üzerindeki kaynakların ve ağ kullanıcılarının gruplandırılmasını sağlamak ve LAN içinde ki BroadCast Domaini azaltmak için kullanan teknolojidir.
+Access Port: Cihazları switch ile bağlamak için kullanan portur 
+Trunk Port:  VLAN bilgilerin üst layere taşıyan hattır.
+Taggs : TPID (Tag Protocol Identifier)/TCI (Tag Control Information ) gibi önemli bilgileri bir VLAN den taşıyıp hangi VLAN e gideceğini kerar verir , 4 Bytedir.
+Port: Iki türe ayrılır: 
+1) Fiziksel port : Switch  gibi cihazlarda ki bağlantı noktaları
+2) Mantıksal port : uygulamaların arasında bilgi alışveriş için kullanılıyor,taşıma katmanında bulınan TCP/UDP protokolları kullanmaktadır
+Tampon: istenen bilgilere yönelik sorgu yapmaktadır.
+Ping: Ping, başka bir bilgisayara bir sinyal gönderir ve milisaniye içinde bir yanıt almanın ne kadar sürdüğünü ölçer
+ARP Paketleri: Ağ katman adreslerinin veri bağlantısı katman adreslerine çözümlenmesini sağlayan bir telekomünikasyon protokolü.
+IP: (Internet Protokolu) Cihazları internetla bağlanmalarını sağlayan protokoldur. Her cihazın kendine ait bir IP adresi var , 
+IP olduğunda internet var oluyor
+
+
+
+
+
+
+
+
+
+
+NETWORK STATISTICS: (Netstat) Cihazdaki bulunan tüm networkları görüntülebilir
+
