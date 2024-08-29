@@ -13,8 +13,7 @@ Ping: Ping, başka bir bilgisayara bir sinyal gönderir ve milisaniye içinde bi
 ARP Paketleri: Ağ katman adreslerinin veri bağlantısı katman adreslerine çözümlenmesini sağlayan bir telekomünikasyon protokolü.
 IP: (Internet Protokolu) Cihazları internetla bağlanmalarını sağlayan protokoldur. Her cihazın kendine ait bir IP adresi var , 
 IP olduğunda internet var oluyor
-
-
+DMZ: Ağ güvenliğinde kullanılan bir mimari bileşendir
 
 
 
