@@ -14,7 +14,7 @@ ARP Paketleri: Ağ katman adreslerinin veri bağlantısı katman adreslerine ç�
 IP: (Internet Protokolu) Cihazları internetla bağlanmalarını sağlayan protokoldur. Her cihazın kendine ait bir IP adresi var , 
 IP olduğunda internet var oluyor
 DMZ: Ağ güvenliğinde kullanılan bir mimari bileşendir
-
+DNS: (Domain Name System)  internet uzayını bölümlemeye, bölümleri adlandırmaya ve bölümler arası iletişimi organize etmeye yarayan bir adlandırma sistemidir.
 
 
 
